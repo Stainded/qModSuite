@@ -35,7 +35,7 @@ Below are all the permissions available in this project named **qModSuite**, are
 #### Here you will find all the dependencies of this server management project that is named qModSuite.
 
 
-| Arquivo   | Versão       | Detail                           |
+| Archive   | Version       | Detail                           |
 | :---------- | :--------- | :---------------------------------- |
 | `CheatBreakerAPI` | `1.0` | **Mandatory.** Usage proposed. |
 | `Basic` | `Latest` |  **Mandatory.** Usage proposed. |
